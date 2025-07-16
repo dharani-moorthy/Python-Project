@@ -1,2 +1,3 @@
 # Python-Project
-Python 
+GUI using tkinter
+Web Cam using Open CV
